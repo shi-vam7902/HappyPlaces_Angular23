@@ -1,0 +1,6 @@
+1.Creating a project -ng n ProjectName in angular
+2. run server->ng s --o 
+3.generate service component - ng g service service/session
+4.import import { HttpClient } from '@angular/common/http'; for use of api's;
+
+  
